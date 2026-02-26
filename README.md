@@ -20,7 +20,9 @@ A continuación algunas de las tecnologías utilizadas en dicha actividad:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23f0db4f&color=%23f0db4f)
 
-
+<p style="text-align: center;">
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=tareasr&custom_title=GitHub+Stats&theme=transparent&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
-
+</p>
+<p style="text-align: center;">
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=tareasr&theme=transparent&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+</p>
